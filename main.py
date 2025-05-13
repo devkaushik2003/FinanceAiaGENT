@@ -28,9 +28,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 logger = logging.getLogger(__name__)
 
 # API keys
-ALPHA_VANTAGE_API_KEY = "DG91C0R2EM7HK8ZY"
-ASSEMBLYAI_API_KEY = "bec2473de05746d8bcff0bd3c395f546"
-GOOGLE_API_KEY = "AIzaSyAmHi2CiA4Z-K5-phmyKpd0vzgljrLNUkY"
+ALPHA_VANTAGE_API_KEY = "ADD YOUR API KEY"
+ASSEMBLYAI_API_KEY = "ADD YOUR API KEY"
+GOOGLE_API_KEY = "ADD YOUR API KEY
 
 
 # Initialize APIs
